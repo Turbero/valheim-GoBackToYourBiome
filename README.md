@@ -7,7 +7,8 @@ Initially these spawns are DISABLED after you install the mod. You can enable th
 # IMPORTANT
 
 * Global keys are NOT altered.
-* The indicated spawns in the configuration file are just canceled when they happen, so the game events are not altered either.
+* The indicated spawns game attempts are just canceled when they happen according to the configuration file, so the game events are not altered either.
+* This mod is incompatible for GlobalKeyFix (https://thunderstore.io/c/valheim/p/coemt/GlobalKeyFix/) but replaces same functionality and provides more flexibility
 
 # Hot it works
 
