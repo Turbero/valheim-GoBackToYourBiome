@@ -4,6 +4,6 @@
     "website_url": "https://github.com/Turbero/valheim-GoBackToYourBiome",
     "description": "Avoid spawning higher monsters in lower biomes without changing the global keys.",
     "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2351"
+        "denikson-BepInExPack_Valheim-5.4.2360"
     ]
 }
